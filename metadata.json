@@ -1,0 +1,6 @@
+{
+  "name": "Scuderia Ferrari F1 2025 — Official Season Experience",
+  "description": "Esperienza ufficiale Scuderia Ferrari Formula 1 2025. Scopri la nuova monoposto SF-25, la line-up leggendaria Hamilton-Leclerc e il calendario mondiale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
