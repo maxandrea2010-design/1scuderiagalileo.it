@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Exclude the 753-frame animation folder (431 MB) — replaced with a single static image
+public/f1-animation/
+
+# AI Studio metadata (not needed for GitHub deployment)
+metadata.json
